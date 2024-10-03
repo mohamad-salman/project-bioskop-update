@@ -1,2 +1,0 @@
-module ms.refactored.Bioskop {
-}

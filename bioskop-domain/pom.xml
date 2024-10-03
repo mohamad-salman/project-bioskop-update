@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ms.refactored</groupId>
-    <artifactId>bioskop</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <artifactId>bioskop-domain</artifactId>
+    <version>1.0</version>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

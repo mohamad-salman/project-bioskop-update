@@ -1,2 +1,4 @@
-/bioskop/target/
-/bioskop/.mvn/
+target/
+bioskop-domain/target
+bioskop-cli/target
+bioskop-cli/data
