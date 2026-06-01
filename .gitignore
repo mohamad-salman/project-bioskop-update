@@ -1,0 +1,7 @@
+target/
+bioskop-domain/target
+bioskop-cli/target
+bioskop-cli/data
+clean-and-build.sh.kate-swp
+
+
